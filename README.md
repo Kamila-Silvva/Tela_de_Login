@@ -1,6 +1,6 @@
 # Tela de Login - React Native
 
-![Screenshot da Tela de Login](../Tela/assets/Screenshot.png)
+![Screenshot da Tela de Login](./assets/Screenshot.png)
 
 Aplicativo de tela de login desenvolvido em React Native como parte da atividade avaliativa da disciplina de Programção de APP.
 
