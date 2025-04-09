@@ -4,16 +4,16 @@
 
 Aplicativo de tela de login desenvolvido em React Native como parte da atividade avaliativa da disciplina de Programção de APP.
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 - Campo para telefone, nome de usuário ou email
 - Campo de senha com mascaramento de caracteres
 
-## 🛠 Tecnologia Utilizada
+## Tecnologia Utilizada
 
 - React Native
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone o repositório:
 ```bash
