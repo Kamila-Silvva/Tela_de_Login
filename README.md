@@ -17,19 +17,15 @@ Aplicativo de tela de login desenvolvido em React Native como parte da atividade
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Kamila-Silvva/Tela_de_Login
 ```
 
 2. Instale as dependências:
 ```bash
 npm install
-# ou
-yarn install
 ```
 
 3. Execute o app:
 ```bash
 expo start
-# ou
-npx react-native run-android/run-ios
 ```
